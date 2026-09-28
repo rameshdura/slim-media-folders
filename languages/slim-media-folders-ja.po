@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ja\n"
+
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+msgid "Role permissions"
+msgstr "権限設定"
+
+msgid "Administrators always have access. Select which other roles may use each tool."
+msgstr "管理者は常に利用できます。他の権限グループが使えるツールを選択してください。"
+
+msgid "Organize folders"
+msgstr "フォルダーを整理"
+
+msgid "View analytics"
+msgstr "分析を表示"
+
+msgid "Review media usage"
+msgstr "メディアの使用状況を確認"
+
+msgid "Save permissions"
+msgstr "権限を保存"
+
+msgid "Media analytics"
+msgstr "メディア分析"
+
+msgid "Media usage review"
+msgstr "メディア使用状況"
+
+msgid "This checks WordPress content, excerpts, metadata, featured images, and attachment relationships. Themes, plugin settings, external sites, and generated URLs may use files without a detectable reference. No reference found does not mean safe to delete."
+msgstr "WordPress の本文、抜粋、メタデータ、アイキャッチ画像、添付関係を確認します。テーマ、プラグイン設定、外部サイト、生成 URL での使用は検出できない場合があります。参照が見つからなくても削除して安全とは限りません。"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Review result"
+msgstr "確認結果"
+
+msgid "No reference found in this scan; review manually"
+msgstr "この検査で参照が見つかりません。手動で確認してください"
+
+msgid "Next 20 files"
+msgstr "次の20件"
+
+msgid "Theme and white label"
+msgstr "テーマとブランド設定"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "System"
+msgstr "システム"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Workspace name"
+msgstr "ワークスペース名"
+
+msgid "Accent color"
+msgstr "アクセントカラー"
+
+msgid "Save appearance"
+msgstr "外観を保存"
+
+msgid "Attachment relationship"
+msgstr "添付関係"
+
+msgid "Content or metadata reference"
+msgstr "本文またはメタデータの参照"
+
+msgid "Featured image"
+msgstr "アイキャッチ画像"
+
+msgid "View folders"
+msgstr "フォルダーを表示"
+
+msgid "Create folders"
+msgstr "フォルダーを作成"
+
+msgid "Move folders and files"
+msgstr "フォルダーとファイルを移動"
+
+msgid "Edit folders"
+msgstr "フォルダーを編集"
+
+msgid "Delete folders"
+msgstr "フォルダーを削除"
+
+msgid "This file could not be moved to trash."
+msgstr "このファイルはゴミ箱に移動できませんでした。"
+
+msgid "File moved to WordPress trash."
+msgstr "ファイルを WordPress のゴミ箱に移動しました。"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Upload date"
+msgstr "アップロード日"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Possibly unused — review before trashing"
+msgstr "未使用の可能性あり — ゴミ箱に移動する前に確認してください"
+
+msgid "I reviewed this file"
+msgstr "このファイルを確認しました"
+
+msgid "Move to trash"
+msgstr "ゴミ箱に移動"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Logo URL"
+msgstr "ロゴ URL"
+
+msgid "Help URL"
+msgstr "ヘルプ URL"
+
+msgid "Hide Pro promotions from non-admin users"
+msgstr "管理者以外には Pro の案内を表示しない"
+
+
+
+
+msgid "Separate folders for Posts and Pages"
+msgstr "投稿と固定ページで別々のフォルダー"
+
+msgid "Folders for other post types"
+msgstr "その他の投稿タイプ用フォルダー"
+
+msgid "Role-based folder permissions"
+msgstr "権限グループ別のフォルダー権限"
+
+msgid "Media storage analytics"
+msgstr "メディア保存容量の分析"
+
+msgid "Possibly unused media review and trash"
+msgstr "未使用の可能性があるメディアの確認とゴミ箱への移動"
+
+msgid "Folder appearance presets"
+msgstr "フォルダー表示のプリセット"
+
+msgid "Plugin white labeling"
+msgstr "プラグインのホワイトラベル"
+
+msgid "Folder ZIP export"
+msgstr "フォルダーの ZIP 書き出し"
+
+msgid "More control for growing libraries."
+msgstr "増え続けるライブラリを、もっと管理しやすく。"
+
+
+#: admin/class-swmf-admin.php
+msgid "Overview"
+msgstr "概要"
+
+#: admin/class-swmf-admin.php
+msgid "Folders"
+msgstr "フォルダー"
+
+#: admin/class-swmf-admin.php
+msgid "Analytics"
+msgstr "分析"
+
+#: admin/class-swmf-admin.php
+msgid "Unused files"
+msgstr "未使用のファイル"
+
+#: admin/class-swmf-admin.php
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-swmf-admin.php
+msgid "Plugin sections"
+msgstr "プラグインのセクション"
+
+#: admin/class-swmf-admin.php
+msgid "Pro activation"
+msgstr "Pro の有効化"
+
+#: admin/class-swmf-admin.php
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Custom order (Pro)"
+msgstr "カスタム順序（Pro）"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Folder reordering requires Pro."
+msgstr "フォルダーの並べ替えには Pro が必要です。"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Drag and drop folder reordering"
+msgstr "ドラッグ＆ドロップによるフォルダーの並べ替え"
+
+#: admin/class-swmf-admin.php
+msgid "Images"
+msgstr "画像"
+
+#: admin/class-swmf-admin.php
+msgid "Videos"
+msgstr "動画"
+
+#: admin/class-swmf-admin.php
+msgid "Audio"
+msgstr "音声"
+
+#: admin/class-swmf-admin.php
+msgid "PDFs"
+msgstr "PDF"
+
+#: admin/class-swmf-admin.php
+msgid "Other files"
+msgstr "その他のファイル"
+
+#: admin/class-swmf-admin.php
+msgid "Library insights"
+msgstr "ライブラリの分析"
+
+#: admin/class-swmf-admin.php
+msgid "See what is filling your library and where to focus your cleanup."
+msgstr "ライブラリの容量を占めているものと、整理すべき場所を確認できます。"
+
+#: admin/class-swmf-admin.php
+msgid "Original files only"
+msgstr "元ファイルのみ"
+
+#: admin/class-swmf-admin.php
+msgid "Storage used"
+msgstr "使用容量"
+
+#: admin/class-swmf-admin.php
+msgid "Original files on this server"
+msgstr "このサーバー上の元ファイル"
+
+#: admin/class-swmf-admin.php
+msgid "Total files"
+msgstr "ファイル総数"
+
+#: admin/class-swmf-admin.php
+msgid "Media library attachments"
+msgstr "メディアライブラリの添付ファイル"
+
+#: admin/class-swmf-admin.php
+msgid "In folders"
+msgstr "フォルダー内"
+
+#: admin/class-swmf-admin.php
+msgid "organized"
+msgstr "整理済み"
+
+#: admin/class-swmf-admin.php
+msgid "Without a folder"
+msgstr "フォルダーなし"
+
+#: admin/class-swmf-admin.php
+msgid "View files"
+msgstr "ファイルを表示"
+
+#: admin/class-swmf-admin.php
+msgid "Storage by file type"
+msgstr "ファイル形式別の容量"
+
+#: admin/class-swmf-admin.php
+msgid "Based on original file sizes"
+msgstr "元ファイルのサイズに基づく"
+
+#: admin/class-swmf-admin.php
+msgid "Uploads over time"
+msgstr "アップロードの推移"
+
+#: admin/class-swmf-admin.php
+msgid "Files added in the last six months"
+msgstr "過去6か月に追加されたファイル"
+
+#: admin/class-swmf-admin.php
+msgid "Monthly upload counts"
+msgstr "月別アップロード数"
+
+#: admin/class-swmf-admin.php
+msgid "Largest folders"
+msgstr "容量の大きいフォルダー"
+
+#: admin/class-swmf-admin.php
+msgid "Original file storage by folder"
+msgstr "フォルダー別の元ファイル容量"
+
+#: admin/class-swmf-admin.php
+msgid "%d files"
+msgstr "%d ファイル"
+
+#: admin/class-swmf-admin.php
+msgid "No files have been assigned to folders yet."
+msgstr "フォルダーに割り当てられたファイルはまだありません。"
+
+#: admin/class-swmf-admin.php
+msgid "Largest files"
+msgstr "容量の大きいファイル"
+
+#: admin/class-swmf-admin.php
+msgid "The biggest original files in your library"
+msgstr "ライブラリ内で最も大きい元ファイル"
+
+#: admin/class-swmf-admin.php
+msgid "No local files found yet."
+msgstr "ローカルファイルはまだ見つかりません。"
+
+#: admin/class-swmf-admin.php
+msgid "%d files are unavailable on this server. Remote storage or missing local files can affect the storage total."
+msgstr "このサーバーで %d 件のファイルを確認できません。リモートストレージやローカルファイルの欠落により、容量の合計が変わる場合があります。"
+
+#: admin/class-swmf-admin.php
+msgid "Generated image sizes are not included."
+msgstr "生成された画像サイズは含まれません。"
+
+msgid "Media Library folders"
+msgstr "メディアライブラリのフォルダー"
+
+msgid "Folder reordering"
+msgstr "フォルダーの並べ替え"
+
+msgid "Free vs Pro"
+msgstr "無料版と Pro 版"
+
+msgid "Feature availability in the current edition."
+msgstr "現在のエディションでの機能の提供状況。"
+
+msgid "Thank You"
+msgstr "ありがとうございます"
+
+msgid "Made with"
+msgstr "想いを込めて"
+
+msgid "love"
+msgstr "愛"
+
+msgid "in Nepal by Developer Ramesh Dura."
+msgstr "ネパールの開発者 Ramesh Dura が制作しました。"
+
+msgid "Feature"
+msgstr "機能"
+
+msgid "Free"
+msgstr "無料版"
+
+msgid "Pro"
+msgstr "Pro 版"
+
+msgid "Included"
+msgstr "利用可能"
+
+msgid "Not included"
+msgstr "利用不可"
+
+msgid "Slim Media Folders Pro"
+msgstr "Slim Media Folders Pro"
+
+msgid "Ready for more control?"
+msgstr "さらに自由に管理しませんか？"
+
+msgid "Upgrade to Pro to arrange folders in your own order."
+msgstr "Pro にアップグレードすると、フォルダーを好きな順序に並べられます。"
+
+msgid "Let’s go Pro"
+msgstr "Pro にアップグレード"
+
+msgid "Your plan"
+msgstr "ご利用プラン"
+
+msgid "License status"
+msgstr "ライセンスの状態"
+
+msgid "Pro active"
+msgstr "Pro が有効"
+
+msgid "Free edition"
+msgstr "無料版"
+
+msgid "Thank you for going Pro!"
+msgstr "Pro をご利用いただきありがとうございます！"
+
+msgid "Your Pro features are active."
+msgstr "Pro 機能が有効です。"
+
+msgid "Media Library folder"
+msgstr "メディアライブラリのフォルダー"
+
+msgid "Organize files in the Media Library with folders."
+msgstr "メディアライブラリのファイルをフォルダーで整理します。"
+
+msgid "Posts and pages folders"
+msgstr "投稿と固定ページのフォルダー"
+
+msgid "Choose which content types should have folders."
+msgstr "フォルダーを使用するコンテンツタイプを選択してください。"
+
+msgid "Custom post type folders"
+msgstr "カスタム投稿タイプのフォルダー"
+
+msgid "Enable folders for custom post types added by your theme or plugins."
+msgstr "テーマやプラグインで追加されたカスタム投稿タイプのフォルダーを有効にします。"
+
+msgid "Waiting to upload"
+msgstr "アップロード待機中"
+
+msgid "Uploading"
+msgstr "アップロード中"
+
+msgid "Uploaded to folder"
+msgstr "フォルダーにアップロードしました"
+
+msgid "Upload failed"
+msgstr "アップロードに失敗しました"
+
+msgid "Uploaded, but not added to the selected folder"
+msgstr "アップロードしましたが、選択したフォルダーに追加できませんでした"
+
+msgid "Show captions"
+msgstr "キャプションを表示"
+
+msgid "Layout"
+msgstr "レイアウト"
+
+msgid "Grid"
+msgstr "グリッド"
+
+msgid "Masonry"
+msgstr "メイソンリー"
+
+msgid "Images per page (0 for all)"
+msgstr "1ページあたりの画像数（0ですべて表示）"
+
+msgid "Gallery pages"
+msgstr "ギャラリーのページ"
+
+msgid "Folder ID"
+msgstr "フォルダーID"
+
+msgid "Gallery shortcode"
+msgstr "ギャラリーショートコード"
+
+msgid "Copy gallery shortcode"
+msgstr "ギャラリーショートコードをコピー"
+
+msgid "Gallery shortcode copied."
+msgstr "ギャラリーショートコードをコピーしました。"
+
+msgid "Could not copy the shortcode."
+msgstr "ショートコードをコピーできませんでした。"
+
+msgid "Build a folder shortcode"
+msgstr "フォルダーショートコードを作成"
+
+msgid "Choose a media folder and how its contents should appear. Copy the shortcode into any post or page."
+msgstr "メディアフォルダーと表示方法を選び、ショートコードを投稿やページにコピーしてください。"
+
+msgid "Display"
+msgstr "表示形式"
+
+msgid "Clean list"
+msgstr "シンプルなリスト"
+
+msgid "Grid gallery"
+msgstr "グリッドギャラリー"
+
+msgid "Masonry gallery"
+msgstr "メイソンリーギャラリー"
+
+msgid "Slider"
+msgstr "スライダー"
+
+msgid "Folder hierarchy"
+msgstr "フォルダー階層"
+
+msgid "Items per page (0 for all)"
+msgstr "1ページあたりの項目数（0ですべて表示）"
+
+msgid "Include other file types"
+msgstr "他のファイル形式も含める"
+
+msgid "Generated shortcode"
+msgstr "生成されたショートコード"
+
+msgid "Copy shortcode"
+msgstr "ショートコードをコピー"
+
+msgid "Choose a media folder first."
+msgstr "最初にメディアフォルダーを選択してください。"
+
+msgid "Previous slide"
+msgstr "前のスライド"
+
+msgid "Next slide"
+msgstr "次のスライド"
+
+msgid "Generate shortcode"
+msgstr "ショートコードを生成"
+
+msgid "Use folders across WordPress"
+msgstr "WordPress 全体でフォルダーを使う"
+
+msgid "Gutenberg block"
+msgstr "Gutenberg ブロック"
+
+msgid "Add the Media Folder Gallery block to a post or page. Choose a folder and adjust its gallery settings in the block sidebar."
+msgstr "投稿やページに「Media Folder Gallery」ブロックを追加します。フォルダーを選び、ブロックのサイドバーでギャラリー設定を調整できます。"
+
+
+msgid "Elementor widget"
+msgstr "Elementor ウィジェット"
+
+msgid "In Elementor, add the Media Folder Gallery widget. Pick a folder, layout, captions, pagination, and file options in the widget controls."
+msgstr "Elementor で「Media Folder Gallery」ウィジェットを追加します。ウィジェットの設定でフォルダー、レイアウト、キャプション、ページ分割、ファイルを選べます。"
+
+
+msgid "WordPress media picker"
+msgstr "WordPress メディアピッカー"
+
+msgid "Browse and select files by folder in the standard WordPress media picker, including when adding images in an editor."
+msgstr "標準の WordPress メディアピッカーでフォルダー別にファイルを閲覧・選択できます。エディターで画像を追加するときも利用できます。"
+
+msgid "Show more folders"
+msgstr "さらにフォルダーを表示"
+
+msgid "Moving %1$d of %2$d items…"
+msgstr "%2$d 件中 %1$d 件を移動中…"

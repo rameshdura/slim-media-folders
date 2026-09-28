@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_CN\n"
+
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+msgid "Role permissions"
+msgstr "角色权限"
+
+msgid "Administrators always have access. Select which other roles may use each tool."
+msgstr "管理员始终拥有访问权限。请选择其他角色可以使用的工具。"
+
+msgid "Organize folders"
+msgstr "整理文件夹"
+
+msgid "View analytics"
+msgstr "查看分析"
+
+msgid "Review media usage"
+msgstr "检查媒体使用情况"
+
+msgid "Save permissions"
+msgstr "保存权限"
+
+msgid "Media analytics"
+msgstr "媒体分析"
+
+msgid "Media usage review"
+msgstr "媒体使用情况检查"
+
+msgid "This checks WordPress content, excerpts, metadata, featured images, and attachment relationships. Themes, plugin settings, external sites, and generated URLs may use files without a detectable reference. No reference found does not mean safe to delete."
+msgstr "此检查涵盖 WordPress 内容、摘要、元数据、特色图片和附件关系。主题、插件设置、外部网站和生成的网址可能无法检测。未找到引用不代表可以安全删除。"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Review result"
+msgstr "检查结果"
+
+msgid "No reference found in this scan; review manually"
+msgstr "此次扫描未找到引用；请手动检查"
+
+msgid "Next 20 files"
+msgstr "下 20 个文件"
+
+msgid "Theme and white label"
+msgstr "主题与品牌设置"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Light"
+msgstr "浅色"
+
+msgid "Dark"
+msgstr "深色"
+
+msgid "Workspace name"
+msgstr "工作区名称"
+
+msgid "Accent color"
+msgstr "强调色"
+
+msgid "Save appearance"
+msgstr "保存外观"
+
+msgid "Attachment relationship"
+msgstr "附件关系"
+
+msgid "Content or metadata reference"
+msgstr "内容或元数据引用"
+
+msgid "Featured image"
+msgstr "特色图片"
+
+msgid "View folders"
+msgstr "查看文件夹"
+
+msgid "Create folders"
+msgstr "创建文件夹"
+
+msgid "Move folders and files"
+msgstr "移动文件夹和文件"
+
+msgid "Edit folders"
+msgstr "编辑文件夹"
+
+msgid "Delete folders"
+msgstr "删除文件夹"
+
+msgid "This file could not be moved to trash."
+msgstr "无法将此文件移至回收站。"
+
+msgid "File moved to WordPress trash."
+msgstr "文件已移至 WordPress 回收站。"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Upload date"
+msgstr "上传日期"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Possibly unused — review before trashing"
+msgstr "可能未使用 — 移至回收站前请检查"
+
+msgid "I reviewed this file"
+msgstr "我已检查此文件"
+
+msgid "Move to trash"
+msgstr "移至回收站"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Logo URL"
+msgstr "徽标 URL"
+
+msgid "Help URL"
+msgstr "帮助 URL"
+
+msgid "Hide Pro promotions from non-admin users"
+msgstr "对非管理员隐藏 Pro 推广"
+
+
+
+
+msgid "Separate folders for Posts and Pages"
+msgstr "文章和页面分别使用文件夹"
+
+msgid "Folders for other post types"
+msgstr "其他内容类型的文件夹"
+
+msgid "Role-based folder permissions"
+msgstr "基于角色的文件夹权限"
+
+msgid "Media storage analytics"
+msgstr "媒体存储分析"
+
+msgid "Possibly unused media review and trash"
+msgstr "可能未使用媒体的检查与移至回收站"
+
+msgid "Folder appearance presets"
+msgstr "文件夹外观预设"
+
+msgid "Plugin white labeling"
+msgstr "插件白标定制"
+
+msgid "Folder ZIP export"
+msgstr "文件夹 ZIP 导出"
+
+msgid "More control for growing libraries."
+msgstr "更好地管理不断增长的媒体库。"
+
+
+#: admin/class-swmf-admin.php
+msgid "Overview"
+msgstr "概览"
+
+#: admin/class-swmf-admin.php
+msgid "Folders"
+msgstr "文件夹"
+
+#: admin/class-swmf-admin.php
+msgid "Analytics"
+msgstr "分析"
+
+#: admin/class-swmf-admin.php
+msgid "Unused files"
+msgstr "未使用文件"
+
+#: admin/class-swmf-admin.php
+msgid "Settings"
+msgstr "设置"
+
+#: admin/class-swmf-admin.php
+msgid "Plugin sections"
+msgstr "插件分区"
+
+#: admin/class-swmf-admin.php
+msgid "Pro activation"
+msgstr "Pro 激活"
+
+#: admin/class-swmf-admin.php
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Custom order (Pro)"
+msgstr "自定义排序（Pro）"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Folder reordering requires Pro."
+msgstr "文件夹重新排序需要 Pro。"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Drag and drop folder reordering"
+msgstr "拖放调整文件夹顺序"
+
+#: admin/class-swmf-admin.php
+msgid "Images"
+msgstr "图片"
+
+#: admin/class-swmf-admin.php
+msgid "Videos"
+msgstr "视频"
+
+#: admin/class-swmf-admin.php
+msgid "Audio"
+msgstr "音频"
+
+#: admin/class-swmf-admin.php
+msgid "PDFs"
+msgstr "PDF"
+
+#: admin/class-swmf-admin.php
+msgid "Other files"
+msgstr "其他文件"
+
+#: admin/class-swmf-admin.php
+msgid "Library insights"
+msgstr "媒体库洞察"
+
+#: admin/class-swmf-admin.php
+msgid "See what is filling your library and where to focus your cleanup."
+msgstr "查看哪些内容占用了媒体库空间，以及可以从哪里开始清理。"
+
+#: admin/class-swmf-admin.php
+msgid "Original files only"
+msgstr "仅统计原始文件"
+
+#: admin/class-swmf-admin.php
+msgid "Storage used"
+msgstr "已用存储空间"
+
+#: admin/class-swmf-admin.php
+msgid "Original files on this server"
+msgstr "此服务器上的原始文件"
+
+#: admin/class-swmf-admin.php
+msgid "Total files"
+msgstr "文件总数"
+
+#: admin/class-swmf-admin.php
+msgid "Media library attachments"
+msgstr "媒体库附件"
+
+#: admin/class-swmf-admin.php
+msgid "In folders"
+msgstr "已归入文件夹"
+
+#: admin/class-swmf-admin.php
+msgid "organized"
+msgstr "已整理"
+
+#: admin/class-swmf-admin.php
+msgid "Without a folder"
+msgstr "未归入文件夹"
+
+#: admin/class-swmf-admin.php
+msgid "View files"
+msgstr "查看文件"
+
+#: admin/class-swmf-admin.php
+msgid "Storage by file type"
+msgstr "按文件类型统计存储空间"
+
+#: admin/class-swmf-admin.php
+msgid "Based on original file sizes"
+msgstr "基于原始文件大小"
+
+#: admin/class-swmf-admin.php
+msgid "Uploads over time"
+msgstr "上传趋势"
+
+#: admin/class-swmf-admin.php
+msgid "Files added in the last six months"
+msgstr "过去六个月新增的文件"
+
+#: admin/class-swmf-admin.php
+msgid "Monthly upload counts"
+msgstr "每月上传数量"
+
+#: admin/class-swmf-admin.php
+msgid "Largest folders"
+msgstr "占用空间最多的文件夹"
+
+#: admin/class-swmf-admin.php
+msgid "Original file storage by folder"
+msgstr "按文件夹统计原始文件大小"
+
+#: admin/class-swmf-admin.php
+msgid "%d files"
+msgstr "%d 个文件"
+
+#: admin/class-swmf-admin.php
+msgid "No files have been assigned to folders yet."
+msgstr "尚无文件归入文件夹。"
+
+#: admin/class-swmf-admin.php
+msgid "Largest files"
+msgstr "最大的文件"
+
+#: admin/class-swmf-admin.php
+msgid "The biggest original files in your library"
+msgstr "媒体库中最大的原始文件"
+
+#: admin/class-swmf-admin.php
+msgid "No local files found yet."
+msgstr "尚未找到本地文件。"
+
+#: admin/class-swmf-admin.php
+msgid "%d files are unavailable on this server. Remote storage or missing local files can affect the storage total."
+msgstr "此服务器上有 %d 个文件不可用。远程存储或本地文件缺失可能影响存储空间总量。"
+
+#: admin/class-swmf-admin.php
+msgid "Generated image sizes are not included."
+msgstr "不包括生成的图片尺寸。"
+
+msgid "Media Library folders"
+msgstr "媒体库文件夹"
+
+msgid "Folder reordering"
+msgstr "文件夹重新排序"
+
+msgid "Free vs Pro"
+msgstr "免费版与 Pro 版"
+
+msgid "Feature availability in the current edition."
+msgstr "当前版本的功能可用情况。"
+
+msgid "Thank You"
+msgstr "谢谢"
+
+msgid "Made with"
+msgstr "用心制作"
+
+msgid "love"
+msgstr "爱"
+
+msgid "in Nepal by Developer Ramesh Dura."
+msgstr "由尼泊尔开发者 Ramesh Dura 制作。"
+
+msgid "Feature"
+msgstr "功能"
+
+msgid "Free"
+msgstr "免费版"
+
+msgid "Pro"
+msgstr "Pro 版"
+
+msgid "Included"
+msgstr "包含"
+
+msgid "Not included"
+msgstr "不包含"
+
+msgid "Slim Media Folders Pro"
+msgstr "Slim Media Folders Pro"
+
+msgid "Ready for more control?"
+msgstr "想要更多管理功能？"
+
+msgid "Upgrade to Pro to arrange folders in your own order."
+msgstr "升级到 Pro，即可按自定义顺序排列文件夹。"
+
+msgid "Let’s go Pro"
+msgstr "升级到 Pro"
+
+msgid "Your plan"
+msgstr "您的套餐"
+
+msgid "License status"
+msgstr "许可证状态"
+
+msgid "Pro active"
+msgstr "Pro 已启用"
+
+msgid "Free edition"
+msgstr "免费版"
+
+msgid "Thank you for going Pro!"
+msgstr "感谢您使用 Pro！"
+
+msgid "Your Pro features are active."
+msgstr "您的 Pro 功能已启用。"
+
+msgid "Media Library folder"
+msgstr "媒体库文件夹"
+
+msgid "Organize files in the Media Library with folders."
+msgstr "使用文件夹整理媒体库中的文件。"
+
+msgid "Posts and pages folders"
+msgstr "文章和页面文件夹"
+
+msgid "Choose which content types should have folders."
+msgstr "选择哪些内容类型可以使用文件夹。"
+
+msgid "Custom post type folders"
+msgstr "自定义文章类型文件夹"
+
+msgid "Enable folders for custom post types added by your theme or plugins."
+msgstr "为主题或插件添加的自定义文章类型启用文件夹。"
+
+msgid "Waiting to upload"
+msgstr "等待上传"
+
+msgid "Uploading"
+msgstr "正在上传"
+
+msgid "Uploaded to folder"
+msgstr "已上传到文件夹"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "Uploaded, but not added to the selected folder"
+msgstr "已上传，但未添加到所选文件夹"
+
+msgid "Show captions"
+msgstr "显示说明文字"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Masonry"
+msgstr "瀑布流"
+
+msgid "Images per page (0 for all)"
+msgstr "每页图片数（0 表示全部）"
+
+msgid "Gallery pages"
+msgstr "图库页码"
+
+msgid "Folder ID"
+msgstr "文件夹 ID"
+
+msgid "Gallery shortcode"
+msgstr "图库短代码"
+
+msgid "Copy gallery shortcode"
+msgstr "复制图库短代码"
+
+msgid "Gallery shortcode copied."
+msgstr "图库短代码已复制。"
+
+msgid "Could not copy the shortcode."
+msgstr "无法复制短代码。"
+
+msgid "Build a folder shortcode"
+msgstr "生成文件夹短代码"
+
+msgid "Choose a media folder and how its contents should appear. Copy the shortcode into any post or page."
+msgstr "选择媒体文件夹和显示方式，然后将短代码复制到文章或页面中。"
+
+msgid "Display"
+msgstr "显示方式"
+
+msgid "Clean list"
+msgstr "简洁列表"
+
+msgid "Grid gallery"
+msgstr "网格图库"
+
+msgid "Masonry gallery"
+msgstr "瀑布流图库"
+
+msgid "Slider"
+msgstr "滑块"
+
+msgid "Folder hierarchy"
+msgstr "文件夹层级"
+
+msgid "Items per page (0 for all)"
+msgstr "每页项目数（0 表示全部）"
+
+msgid "Include other file types"
+msgstr "包含其他文件类型"
+
+msgid "Generated shortcode"
+msgstr "生成的短代码"
+
+msgid "Copy shortcode"
+msgstr "复制短代码"
+
+msgid "Choose a media folder first."
+msgstr "请先选择媒体文件夹。"
+
+msgid "Previous slide"
+msgstr "上一张幻灯片"
+
+msgid "Next slide"
+msgstr "下一张幻灯片"
+
+msgid "Generate shortcode"
+msgstr "生成短代码"
+
+msgid "Use folders across WordPress"
+msgstr "在 WordPress 中使用文件夹"
+
+msgid "Gutenberg block"
+msgstr "Gutenberg 区块"
+
+msgid "Add the Media Folder Gallery block to a post or page. Choose a folder and adjust its gallery settings in the block sidebar."
+msgstr "在文章或页面中添加“Media Folder Gallery”区块。选择文件夹，并在区块侧边栏中调整图库设置。"
+
+
+msgid "Elementor widget"
+msgstr "Elementor 小组件"
+
+msgid "In Elementor, add the Media Folder Gallery widget. Pick a folder, layout, captions, pagination, and file options in the widget controls."
+msgstr "在 Elementor 中添加“Media Folder Gallery”小组件。在小组件控件中选择文件夹、布局、说明文字、分页和文件选项。"
+
+
+msgid "WordPress media picker"
+msgstr "WordPress 媒体选择器"
+
+msgid "Browse and select files by folder in the standard WordPress media picker, including when adding images in an editor."
+msgstr "在标准 WordPress 媒体选择器中按文件夹浏览和选择文件，在编辑器中添加图片时也可使用。"
+
+msgid "Show more folders"
+msgstr "显示更多文件夹"
+
+msgid "Moving %1$d of %2$d items…"
+msgstr "正在移动 %2$d 个项目中的 %1$d 个…"

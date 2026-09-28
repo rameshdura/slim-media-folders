@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ne_NP\n"
+
+msgid "Settings saved."
+msgstr "सेटिङहरू सुरक्षित गरियो।"
+
+msgid "Role permissions"
+msgstr "भूमिका अनुमतिहरू"
+
+msgid "Administrators always have access. Select which other roles may use each tool."
+msgstr "प्रशासकसँग सधैं पहुँच हुन्छ। अन्य भूमिकाले कुन उपकरण प्रयोग गर्न पाउँछन् छान्नुहोस्।"
+
+msgid "Organize folders"
+msgstr "फोल्डर व्यवस्थित गर्नुहोस्"
+
+msgid "View analytics"
+msgstr "विश्लेषण हेर्नुहोस्"
+
+msgid "Review media usage"
+msgstr "मिडिया प्रयोग समीक्षा गर्नुहोस्"
+
+msgid "Save permissions"
+msgstr "अनुमतिहरू सुरक्षित गर्नुहोस्"
+
+msgid "Media analytics"
+msgstr "मिडिया विश्लेषण"
+
+msgid "Media usage review"
+msgstr "मिडिया प्रयोग समीक्षा"
+
+msgid "This checks WordPress content, excerpts, metadata, featured images, and attachment relationships. Themes, plugin settings, external sites, and generated URLs may use files without a detectable reference. No reference found does not mean safe to delete."
+msgstr "यसले WordPress सामग्री, सारांश, मेटाडेटा, मुख्य छवि र संलग्न सम्बन्ध जाँच गर्छ। थिम, प्लगइन सेटिङ, बाह्य साइट र सिर्जित URL मा सन्दर्भ नदेखिन सक्छ। सन्दर्भ नभेटिनु मेटाउन सुरक्षित हुनु होइन।"
+
+msgid "File"
+msgstr "फाइल"
+
+msgid "Review result"
+msgstr "समीक्षा परिणाम"
+
+msgid "No reference found in this scan; review manually"
+msgstr "यस जाँचमा सन्दर्भ भेटिएन; आफैं समीक्षा गर्नुहोस्"
+
+msgid "Next 20 files"
+msgstr "अर्का २० फाइल"
+
+msgid "Theme and white label"
+msgstr "थिम र ब्रान्डिङ"
+
+msgid "Theme"
+msgstr "थिम"
+
+msgid "System"
+msgstr "प्रणाली"
+
+msgid "Light"
+msgstr "उज्यालो"
+
+msgid "Dark"
+msgstr "अँध्यारो"
+
+msgid "Workspace name"
+msgstr "कार्यस्थान नाम"
+
+msgid "Accent color"
+msgstr "मुख्य रङ"
+
+msgid "Save appearance"
+msgstr "रूप सुरक्षित गर्नुहोस्"
+
+msgid "Attachment relationship"
+msgstr "संलग्न सम्बन्ध"
+
+msgid "Content or metadata reference"
+msgstr "सामग्री वा मेटाडेटा सन्दर्भ"
+
+msgid "Featured image"
+msgstr "मुख्य छवि"
+
+msgid "View folders"
+msgstr "फोल्डरहरू हेर्नुहोस्"
+
+msgid "Create folders"
+msgstr "फोल्डरहरू सिर्जना गर्नुहोस्"
+
+msgid "Move folders and files"
+msgstr "फोल्डर र फाइलहरू सार्नुहोस्"
+
+msgid "Edit folders"
+msgstr "फोल्डरहरू सम्पादन गर्नुहोस्"
+
+msgid "Delete folders"
+msgstr "फोल्डरहरू मेटाउनुहोस्"
+
+msgid "This file could not be moved to trash."
+msgstr "यो फाइल रद्दीटोकरीमा सार्न सकिएन।"
+
+msgid "File moved to WordPress trash."
+msgstr "फाइल WordPress रद्दीटोकरीमा सारियो।"
+
+msgid "Size"
+msgstr "आकार"
+
+msgid "Upload date"
+msgstr "अपलोड मिति"
+
+msgid "Action"
+msgstr "कार्य"
+
+msgid "Possibly unused — review before trashing"
+msgstr "सम्भवतः प्रयोग नभएको — रद्दीटोकरीमा सार्नु अघि समीक्षा गर्नुहोस्"
+
+msgid "I reviewed this file"
+msgstr "मैले यो फाइल समीक्षा गरेको छु"
+
+msgid "Move to trash"
+msgstr "रद्दीटोकरीमा सार्नुहोस्"
+
+msgid "Help"
+msgstr "मद्दत"
+
+msgid "Logo URL"
+msgstr "लोगो URL"
+
+msgid "Help URL"
+msgstr "मद्दत URL"
+
+msgid "Hide Pro promotions from non-admin users"
+msgstr "प्रशासक नभएका प्रयोगकर्ताहरूबाट Pro प्रचार लुकाउनुहोस्"
+
+
+
+
+msgid "Separate folders for Posts and Pages"
+msgstr "पोस्ट र पृष्ठका लागि अलग फोल्डरहरू"
+
+msgid "Folders for other post types"
+msgstr "अन्य पोस्ट प्रकारका लागि फोल्डरहरू"
+
+msgid "Role-based folder permissions"
+msgstr "भूमिकामा आधारित फोल्डर अनुमतिहरू"
+
+msgid "Media storage analytics"
+msgstr "मिडिया भण्डारण विश्लेषण"
+
+msgid "Possibly unused media review and trash"
+msgstr "सम्भवतः प्रयोग नभएको मिडिया समीक्षा र रद्दीटोकरी"
+
+msgid "Folder appearance presets"
+msgstr "फोल्डर रूपका पूर्वनिर्धारित शैलीहरू"
+
+msgid "Plugin white labeling"
+msgstr "प्लगइन ह्वाइट लेबलिङ"
+
+msgid "Folder ZIP export"
+msgstr "फोल्डर ZIP निर्यात"
+
+msgid "More control for growing libraries."
+msgstr "बढ्दो लाइब्रेरीका लागि थप नियन्त्रण।"
+
+
+#: admin/class-swmf-admin.php
+msgid "Overview"
+msgstr "अवलोकन"
+
+#: admin/class-swmf-admin.php
+msgid "Folders"
+msgstr "फोल्डरहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Analytics"
+msgstr "विश्लेषण"
+
+#: admin/class-swmf-admin.php
+msgid "Unused files"
+msgstr "प्रयोग नभएका फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Settings"
+msgstr "सेटिङहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Plugin sections"
+msgstr "प्लगइन खण्डहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Pro activation"
+msgstr "प्रो सक्रियता"
+
+#: admin/class-swmf-admin.php
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Custom order (Pro)"
+msgstr "अनुकूल क्रम (प्रो)"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Folder reordering requires Pro."
+msgstr "फोल्डरको क्रम परिवर्तनका लागि प्रो आवश्यक छ।"
+
+#: admin/class-swmf-admin.php includes/class-swmf-ajax.php includes/class-swmf-media-library.php
+msgid "Drag and drop folder reordering"
+msgstr "ड्र्याग र ड्रप गरेर फोल्डरको क्रम परिवर्तन"
+
+#: admin/class-swmf-admin.php
+msgid "Images"
+msgstr "तस्बिरहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Videos"
+msgstr "भिडियोहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Audio"
+msgstr "अडियो"
+
+#: admin/class-swmf-admin.php
+msgid "PDFs"
+msgstr "PDF हरू"
+
+#: admin/class-swmf-admin.php
+msgid "Other files"
+msgstr "अन्य फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Library insights"
+msgstr "लाइब्रेरी जानकारी"
+
+#: admin/class-swmf-admin.php
+msgid "See what is filling your library and where to focus your cleanup."
+msgstr "तपाईंको लाइब्रेरीमा के ले ठाउँ ओगटेको छ र कहाँ सफाइ गर्नुपर्छ हेर्नुहोस्।"
+
+#: admin/class-swmf-admin.php
+msgid "Original files only"
+msgstr "मूल फाइलहरू मात्र"
+
+#: admin/class-swmf-admin.php
+msgid "Storage used"
+msgstr "प्रयोग भएको भण्डारण"
+
+#: admin/class-swmf-admin.php
+msgid "Original files on this server"
+msgstr "यस सर्भरमा भएका मूल फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Total files"
+msgstr "कुल फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Media library attachments"
+msgstr "मिडिया लाइब्रेरीका संलग्न फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "In folders"
+msgstr "फोल्डरहरूमा"
+
+#: admin/class-swmf-admin.php
+msgid "organized"
+msgstr "व्यवस्थित"
+
+#: admin/class-swmf-admin.php
+msgid "Without a folder"
+msgstr "फोल्डर नभएका"
+
+#: admin/class-swmf-admin.php
+msgid "View files"
+msgstr "फाइलहरू हेर्नुहोस्"
+
+#: admin/class-swmf-admin.php
+msgid "Storage by file type"
+msgstr "फाइल प्रकार अनुसार भण्डारण"
+
+#: admin/class-swmf-admin.php
+msgid "Based on original file sizes"
+msgstr "मूल फाइलको आकारमा आधारित"
+
+#: admin/class-swmf-admin.php
+msgid "Uploads over time"
+msgstr "समयसँगै अपलोड"
+
+#: admin/class-swmf-admin.php
+msgid "Files added in the last six months"
+msgstr "पछिल्ला छ महिनामा थपिएका फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Monthly upload counts"
+msgstr "मासिक अपलोड सङ्ख्या"
+
+#: admin/class-swmf-admin.php
+msgid "Largest folders"
+msgstr "सबैभन्दा ठूला फोल्डरहरू"
+
+#: admin/class-swmf-admin.php
+msgid "Original file storage by folder"
+msgstr "फोल्डर अनुसार मूल फाइलको भण्डारण"
+
+#: admin/class-swmf-admin.php
+msgid "%d files"
+msgstr "%d फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "No files have been assigned to folders yet."
+msgstr "अहिलेसम्म कुनै फाइल फोल्डरमा राखिएको छैन।"
+
+#: admin/class-swmf-admin.php
+msgid "Largest files"
+msgstr "सबैभन्दा ठूला फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "The biggest original files in your library"
+msgstr "तपाईंको लाइब्रेरीका सबैभन्दा ठूला मूल फाइलहरू"
+
+#: admin/class-swmf-admin.php
+msgid "No local files found yet."
+msgstr "अहिलेसम्म स्थानीय फाइल भेटिएन।"
+
+#: admin/class-swmf-admin.php
+msgid "%d files are unavailable on this server. Remote storage or missing local files can affect the storage total."
+msgstr "यस सर्भरमा %d फाइलहरू उपलब्ध छैनन्। टाढाको भण्डारण वा हराएका स्थानीय फाइलहरूले भण्डारणको कुल योगलाई असर गर्न सक्छन्।"
+
+#: admin/class-swmf-admin.php
+msgid "Generated image sizes are not included."
+msgstr "सिर्जना गरिएका तस्बिर आकारहरू समावेश छैनन्।"
+
+msgid "Media Library folders"
+msgstr "मिडिया लाइब्रेरी फोल्डरहरू"
+
+msgid "Folder reordering"
+msgstr "फोल्डर पुनःक्रमबद्ध गर्ने"
+
+msgid "Free vs Pro"
+msgstr "निःशुल्क र Pro"
+
+msgid "Feature availability in the current edition."
+msgstr "हालको संस्करणमा सुविधाहरूको उपलब्धता।"
+
+msgid "Thank You"
+msgstr "धन्यवाद"
+
+msgid "Made with"
+msgstr "मायाले बनाइएको"
+
+msgid "love"
+msgstr "माया"
+
+msgid "in Nepal by Developer Ramesh Dura."
+msgstr "नेपालमा डेभलपर रमेश दुराद्वारा।"
+
+msgid "Feature"
+msgstr "सुविधा"
+
+msgid "Free"
+msgstr "निःशुल्क"
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "Included"
+msgstr "समावेश"
+
+msgid "Not included"
+msgstr "समावेश छैन"
+
+msgid "Slim Media Folders Pro"
+msgstr "Slim Media Folders Pro"
+
+msgid "Ready for more control?"
+msgstr "थप नियन्त्रण चाहनुहुन्छ?"
+
+msgid "Upgrade to Pro to arrange folders in your own order."
+msgstr "फोल्डरहरू आफ्नो रोजाइको क्रममा राख्न Pro मा अपग्रेड गर्नुहोस्।"
+
+msgid "Let’s go Pro"
+msgstr "Pro मा अपग्रेड गर्नुहोस्"
+
+msgid "Your plan"
+msgstr "तपाईंको योजना"
+
+msgid "License status"
+msgstr "लाइसेन्स स्थिति"
+
+msgid "Pro active"
+msgstr "Pro सक्रिय"
+
+msgid "Free edition"
+msgstr "निःशुल्क संस्करण"
+
+msgid "Thank you for going Pro!"
+msgstr "Pro रोज्नुभएकोमा धन्यवाद!"
+
+msgid "Your Pro features are active."
+msgstr "तपाईंका Pro सुविधाहरू सक्रिय छन्।"
+
+msgid "Media Library folder"
+msgstr "मिडिया लाइब्रेरी फोल्डर"
+
+msgid "Organize files in the Media Library with folders."
+msgstr "मिडिया लाइब्रेरीका फाइलहरू फोल्डरमा व्यवस्थित गर्नुहोस्।"
+
+msgid "Posts and pages folders"
+msgstr "पोस्ट र पेज फोल्डर"
+
+msgid "Choose which content types should have folders."
+msgstr "कुन सामग्री प्रकारमा फोल्डर राख्ने छनोट गर्नुहोस्।"
+
+msgid "Custom post type folders"
+msgstr "कस्टम पोस्ट प्रकार फोल्डर"
+
+msgid "Enable folders for custom post types added by your theme or plugins."
+msgstr "थिम वा प्लगइनले थपेका कस्टम पोस्ट प्रकारहरूका लागि फोल्डर सक्षम गर्नुहोस्।"
+
+msgid "Waiting to upload"
+msgstr "अपलोडको प्रतीक्षामा"
+
+msgid "Uploading"
+msgstr "अपलोड हुँदैछ"
+
+msgid "Uploaded to folder"
+msgstr "फोल्डरमा अपलोड भयो"
+
+msgid "Upload failed"
+msgstr "अपलोड असफल भयो"
+
+msgid "Uploaded, but not added to the selected folder"
+msgstr "अपलोड भयो, तर चयन गरिएको फोल्डरमा थपिएन"
+
+msgid "Show captions"
+msgstr "क्याप्सन देखाउनुहोस्"
+
+msgid "Layout"
+msgstr "लेआउट"
+
+msgid "Grid"
+msgstr "ग्रिड"
+
+msgid "Masonry"
+msgstr "मेसनरी"
+
+msgid "Images per page (0 for all)"
+msgstr "प्रति पृष्ठ छविहरू (सबैका लागि ०)"
+
+msgid "Gallery pages"
+msgstr "ग्यालरी पृष्ठहरू"
+
+msgid "Folder ID"
+msgstr "फोल्डर आईडी"
+
+msgid "Gallery shortcode"
+msgstr "ग्यालरी सर्टकोड"
+
+msgid "Copy gallery shortcode"
+msgstr "ग्यालरी सर्टकोड प्रतिलिपि गर्नुहोस्"
+
+msgid "Gallery shortcode copied."
+msgstr "ग्यालरी सर्टकोड प्रतिलिपि गरियो।"
+
+msgid "Could not copy the shortcode."
+msgstr "सर्टकोड प्रतिलिपि गर्न सकिएन।"
+
+msgid "Build a folder shortcode"
+msgstr "फोल्डर सर्टकोड बनाउनुहोस्"
+
+msgid "Choose a media folder and how its contents should appear. Copy the shortcode into any post or page."
+msgstr "मिडिया फोल्डर र देखाउने तरिका छान्नुहोस्। सर्टकोड पोस्ट वा पृष्ठमा प्रतिलिपि गर्नुहोस्।"
+
+msgid "Display"
+msgstr "प्रदर्शन"
+
+msgid "Clean list"
+msgstr "साधारण सूची"
+
+msgid "Grid gallery"
+msgstr "ग्रिड ग्यालरी"
+
+msgid "Masonry gallery"
+msgstr "मेसनरी ग्यालरी"
+
+msgid "Slider"
+msgstr "स्लाइडर"
+
+msgid "Folder hierarchy"
+msgstr "फोल्डर संरचना"
+
+msgid "Items per page (0 for all)"
+msgstr "प्रति पृष्ठ वस्तुहरू (सबैका लागि ०)"
+
+msgid "Include other file types"
+msgstr "अन्य फाइल प्रकारहरू समावेश गर्नुहोस्"
+
+msgid "Generated shortcode"
+msgstr "बनाइएको सर्टकोड"
+
+msgid "Copy shortcode"
+msgstr "सर्टकोड प्रतिलिपि गर्नुहोस्"
+
+msgid "Choose a media folder first."
+msgstr "पहिले मिडिया फोल्डर छान्नुहोस्।"
+
+msgid "Previous slide"
+msgstr "अघिल्लो स्लाइड"
+
+msgid "Next slide"
+msgstr "अर्को स्लाइड"
+
+msgid "Generate shortcode"
+msgstr "सर्टकोड बनाउनुहोस्"
+
+msgid "Use folders across WordPress"
+msgstr "WordPress भरि फोल्डर प्रयोग गर्नुहोस्"
+
+msgid "Gutenberg block"
+msgstr "Gutenberg ब्लक"
+
+msgid "Add the Media Folder Gallery block to a post or page. Choose a folder and adjust its gallery settings in the block sidebar."
+msgstr "पोस्ट वा पृष्ठमा Media Folder Gallery ब्लक थप्नुहोस्। फोल्डर छानी ब्लक साइडबारमा ग्यालरी सेटिङ मिलाउनुहोस्।"
+
+
+msgid "Elementor widget"
+msgstr "Elementor विजेट"
+
+msgid "In Elementor, add the Media Folder Gallery widget. Pick a folder, layout, captions, pagination, and file options in the widget controls."
+msgstr "Elementor मा Media Folder Gallery विजेट थप्नुहोस्। विजेटका नियन्त्रणमा फोल्डर, लेआउट, क्याप्सन, पृष्ठ विभाजन र फाइल विकल्प छान्नुहोस्।"
+
+
+msgid "WordPress media picker"
+msgstr "WordPress मिडिया छनोटकर्ता"
+
+msgid "Browse and select files by folder in the standard WordPress media picker, including when adding images in an editor."
+msgstr "मानक WordPress मिडिया छनोटकर्तामा फोल्डरअनुसार फाइलहरू हेर्न र छान्न सकिन्छ, सम्पादकमा छवि थप्दा पनि।"
+
+msgid "Show more folders"
+msgstr "थप फोल्डरहरू देखाउनुहोस्"
+
+msgid "Moving %1$d of %2$d items…"
+msgstr "%2$d मध्ये %1$d वस्तुहरू सारिँदै छन्…"

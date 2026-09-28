@@ -1,0 +1,87 @@
+.swmf-gallery {
+	display: grid;
+	grid-template-columns: repeat(var(--swmf-gallery-columns, 3), minmax(0, 1fr));
+	gap: 1rem;
+	align-items: start;
+	align-content: start;
+}
+
+.swmf-gallery--columns-1 { --swmf-gallery-columns: 1; }
+.swmf-gallery--columns-2 { --swmf-gallery-columns: 2; }
+.swmf-gallery--columns-3 { --swmf-gallery-columns: 3; }
+.swmf-gallery--columns-4 { --swmf-gallery-columns: 4; }
+.swmf-gallery--columns-5 { --swmf-gallery-columns: 5; }
+.swmf-gallery--columns-6 { --swmf-gallery-columns: 6; }
+
+.swmf-gallery__item { position: relative; margin: 0; min-width: 0; aspect-ratio: 1; overflow: hidden; }
+.swmf-gallery__link { display: block; width: 100%; height: 100%; }
+.swmf-gallery__item img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.swmf-gallery-notice { padding: 1rem 1.25rem; border: 1px dashed #9ca3af; border-radius: .25rem; background: #f9fafb; color: #374151; }
+.swmf-gallery-notice p { margin: 0; }
+
+@media (max-width: 600px) {
+	.swmf-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+.swmf-gallery-lightbox { position: fixed; z-index: 100000; inset: 0; display: grid; place-items: center; padding: 2rem; background: rgb(0 0 0 / 85%); }
+.swmf-gallery-lightbox .swmf-gallery-lightbox__image { display: block; box-sizing: border-box; width: auto !important; height: auto !important; max-width: calc(100vw - 4rem) !important; max-height: calc(100vh - 4rem) !important; object-fit: contain; }
+.swmf-gallery-lightbox__close { position: absolute; top: .75rem; right: .75rem; width: 2.75rem; height: 2.75rem; border: 0; border-radius: 50%; background: #fff; color: #111; font-size: 2rem; line-height: 1; cursor: pointer; }
+.swmf-gallery-lightbox__previous, .swmf-gallery-lightbox__next { position: absolute; top: 50%; z-index: 1; width: 3rem; height: 3rem; border: 0; border-radius: 50%; background: rgb(255 255 255 / 92%); color: #111; font-size: 2.5rem; line-height: 1; cursor: pointer; transform: translateY(-50%); }
+.swmf-gallery-lightbox__previous { left: 1rem; }
+.swmf-gallery-lightbox__next { right: 1rem; }
+.swmf-gallery-lightbox__previous:hover, .swmf-gallery-lightbox__next:hover, .swmf-gallery-lightbox__close:hover { background: #fff; }
+
+@media (max-width: 600px) {
+	.swmf-gallery-lightbox { padding: 1rem; }
+	.swmf-gallery-lightbox .swmf-gallery-lightbox__image { max-width: calc(100vw - 2rem); max-height: calc(100vh - 2rem); }
+	.swmf-gallery-lightbox__previous { left: .5rem; }
+	.swmf-gallery-lightbox__next { right: .5rem; }
+}
+
+.swmf-gallery__item--file { background: #f3f4f6; }
+.swmf-gallery__file { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; height: 100%; padding: 1rem; box-sizing: border-box; text-align: center; overflow-wrap: anywhere; }
+.swmf-gallery__file-icon { font-size: 2.5rem; line-height: 1.2; }
+
+/* Elementor and themes often set image dimensions globally. Keep gallery tiles square. */
+.elementor-widget-swmf-folder-gallery .swmf-gallery--grid .swmf-gallery__item {
+	width: 100%;
+	height: auto;
+	aspect-ratio: 1 / 1;
+}
+.elementor-widget-swmf-folder-gallery .swmf-gallery--grid .swmf-gallery__item img {
+	position: absolute;
+	inset: 0;
+	width: 100% !important;
+	height: 100% !important;
+	max-width: none;
+	object-fit: cover;
+}
+
+.swmf-gallery--masonry { display: block; columns: var(--swmf-gallery-columns, 3); column-gap: 1rem; }
+.swmf-gallery--masonry .swmf-gallery__item { break-inside: avoid; margin-bottom: 1rem; aspect-ratio: auto; }
+.swmf-gallery--masonry .swmf-gallery__link { height: auto; }
+.swmf-gallery--masonry .swmf-gallery__item img { position: static; width: 100%; height: auto; }
+.swmf-gallery__caption { position: relative; padding: .5rem .25rem; font-size: .875rem; line-height: 1.4; }
+.swmf-gallery--grid .swmf-gallery__caption, .swmf-gallery--slider .swmf-gallery__caption { position: absolute; inset: auto 0 0; padding: .5rem; color: #fff; background: rgb(0 0 0 / 72%); }
+.swmf-gallery-pagination { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }
+.swmf-gallery-pagination a, .swmf-gallery-pagination__current { display: inline-block; padding: .4rem .75rem; border: 1px solid currentColor; border-radius: .25rem; }
+.swmf-gallery-pagination__current { font-weight: 700; }
+@media (max-width: 600px) { .swmf-gallery--masonry { columns: 2; } }
+
+.swmf-gallery--list { display: flex; flex-direction: column; gap: .6rem; }
+.swmf-gallery--list .swmf-gallery__item { display: flex; align-items: center; gap: .75rem; min-height: 4rem; aspect-ratio: auto; overflow: visible; }
+.swmf-gallery--list .swmf-gallery__link { display: flex; align-items: center; width: auto; height: auto; }
+.swmf-gallery--list .swmf-gallery__item img { position: static; width: 4rem; height: 4rem; object-fit: cover; border-radius: .25rem; }
+.swmf-gallery--list .swmf-gallery__caption { padding: 0; }
+.swmf-gallery--list .swmf-gallery__item--file { background: transparent; }
+.swmf-gallery--list .swmf-gallery__file { flex-direction: row; justify-content: flex-start; gap: .75rem; padding: 0; text-align: left; }
+.swmf-gallery--list .swmf-gallery__file-icon { font-size: 1.5rem; }
+.swmf-gallery-slider { display: flex; align-items: center; gap: .5rem; }
+.swmf-gallery-slider .swmf-gallery { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; scrollbar-width: thin; flex: 1; }
+.swmf-gallery-slider .swmf-gallery__item { flex: 0 0 min(100%, 32rem); scroll-snap-align: center; }
+.swmf-gallery-slider > button { flex: 0 0 2.5rem; width: 2.5rem; height: 2.5rem; border: 1px solid currentColor; border-radius: 50%; background: transparent; cursor: pointer; font-size: 1.5rem; }
+.swmf-gallery-folder { margin: 1rem 0 1rem 1rem; padding-left: 1rem; border-left: 2px solid #ddd; }
+.swmf-gallery-folder:first-child { margin-left: 0; }
+.swmf-gallery-folder h3, .swmf-gallery-folder h4 { margin: .5rem 0; }
+.elementor-widget-swmf-folder-gallery .swmf-gallery--list .swmf-gallery__item,
+.elementor-widget-swmf-folder-gallery .swmf-gallery--slider .swmf-gallery__item { aspect-ratio: auto; }
